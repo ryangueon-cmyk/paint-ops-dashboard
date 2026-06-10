@@ -1,0 +1,25 @@
+﻿GOLD PAINTING — Operations Dashboard,,,,,,,
+Inventory & Order-Fulfillment Performance  |  FY2025 (synthetic data),,,,,,,
+,,,,,,,
+INVENTORY HEALTH,,,CREW PERFORMANCE,,,,
+Total SKUs,30,,Crew,Jobs Done,On-Time %,Avg Cycle,Revenue ($)
+Items Below Reorder Point,6,,Crew A,26,76.9%,19.5,"$168,222"
+Total Inventory Value,"$20,972",,Crew B,33,72.7%,20.9,"$238,852"
+Annual Material Usage (value),"$88,729",,Crew C,28,71.4%,20.2,"$186,087"
+Inventory Turnover,4.2x,,,,,,
+,,,,,,,
+FULFILLMENT PERFORMANCE,,,JOB MIX BY TYPE,,,,
+Jobs Logged (all),100,,Type,Jobs Done,Revenue ($),Mat % of Rev,
+Completed Jobs,87,,Interior,41,"$275,800",12.9%,
+Open Backlog (sched + in prog),9,,Exterior,26,"$177,138",12.0%,
+Cancelled Jobs,4,,Both,20,"$140,223",22.8%,
+On-Time Completion Rate,73.6%,,,,,,
+Late Jobs,23,,,,,,
+"Avg Cycle Time, Quote→Done (days)",20.2,,,,,,
+Avg Start Delay (days),0.8,,,,,,
+,,,,,,,
+FINANCIAL (COMPLETED JOBS),,,,,,,
+Total Revenue,"$593,161",,,,,,
+Total Actual Material Cost,"$88,729",,,,,,
+Material Cost % of Revenue,15.0%,,,,,,
+Material Variance vs Quote,"-$12,878",,,,,,

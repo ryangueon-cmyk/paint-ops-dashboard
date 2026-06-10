@@ -1,0 +1,101 @@
+﻿Job ID,Customer,Job Type,Property,Sqft,Crew,Status,Quote Date,Sched Start,Actual Start,Sched Completion,Actual Completion,Quoted Price ($),Quoted Mat Cost ($),Labor Hrs,Actual Mat Cost ($),Mat Variance ($),Cycle Days,Start Delay,On-Time?
+J-1093,Bayside Apartments,Interior,Residential,1800,Crew C,Completed,2025-01-23,2025-01-31,2025-01-31,2025-02-05,2025-02-04,"$5,694",$834,33,$910,$76,12,0,On Time
+J-1052,Harlow Residence,Exterior,Residential,800,Crew C,Completed,2025-01-23,2025-02-10,2025-02-10,2025-02-15,2025-02-13,"$2,614",$384,12,$354,-$30,21,0,On Time
+J-1030,Park La Brea,Exterior,Commercial,800,Crew A,Completed,2025-01-28,2025-02-14,2025-02-14,2025-02-18,2025-02-15,"$2,561",$454,13,$429,-$25,18,0,On Time
+J-1084,Cedars-Sinai Medical Center,Interior,Commercial,1200,Crew B,Completed,2025-02-04,2025-02-16,2025-02-16,2025-02-21,2025-02-19,"$4,012",$591,22,$550,-$41,15,0,On Time
+J-1078,U.S. Bank Tower,Exterior,Commercial,1500,Crew A,Completed,2025-02-17,2025-02-23,2025-02-24,2025-03-01,2025-03-01,"$5,050",$965,21,$435,-$530,12,1,On Time
+J-1044,Patel Apartments,Both,Residential,800,Crew B,Completed,2025-02-05,2025-02-24,2025-02-27,2025-02-28,2025-03-01,"$2,994",$555,13,$742,$187,24,3,Late
+J-1098,Vega Residence,Interior,Residential,800,Crew C,Completed,2025-02-13,2025-03-03,2025-03-03,2025-03-07,2025-03-05,"$2,510",$475,13,$361,-$114,20,0,On Time
+J-1097,Whitman Retail,Both,Residential,1800,Crew C,Completed,2025-02-26,2025-03-04,2025-03-04,2025-03-08,2025-03-10,"$6,022","$1,033",32,"$1,501",$468,12,0,Late
+J-1010,Maple Ridge Apartments,Exterior,Residential,1200,Crew C,Cancelled,2025-02-08,2025-03-04,,2025-03-09,,"$4,558",$911,18,$0,-$911,,,
+J-1086,Paramount Pictures Studios,Interior,Commercial,1800,Crew B,Cancelled,2025-02-21,2025-03-06,,2025-03-10,,"$6,373",$909,32,$0,-$909,,,
+J-1069,South Coast Plaza,Interior,Commercial,1500,Crew B,Completed,2025-02-26,2025-03-07,2025-03-07,2025-03-13,2025-03-11,"$5,323",$873,24,$604,-$269,13,0,On Time
+J-1050,Juniper Retail,Both,Residential,3600,Crew C,Completed,2025-02-11,2025-03-08,2025-03-11,2025-03-16,2025-03-17,"$10,889","$1,736",62,"$2,601",$865,34,3,Late
+J-1023,Juniper Townhomes,Exterior,Residential,800,Crew A,Completed,2025-02-20,2025-03-11,2025-03-11,2025-03-15,2025-03-12,"$2,881",$567,11,$339,-$228,20,0,On Time
+J-1056,Ten Thousand Apartments,Interior,Commercial,2400,Crew B,Completed,2025-03-06,2025-03-13,2025-03-13,2025-03-18,2025-03-16,"$7,243","$1,265",40,"$1,003",-$262,10,0,On Time
+J-1058,Hoag Memorial Hospital,Exterior,Commercial,4500,Crew B,Completed,2025-02-26,2025-03-14,2025-03-14,2025-03-22,2025-03-20,"$16,031","$3,020",76,"$1,492","-$1,528",22,0,On Time
+J-1051,Grand Central Market,Interior,Commercial,800,Crew A,Completed,2025-02-24,2025-03-17,2025-03-19,2025-03-21,2025-03-21,"$3,130",$470,12,$371,-$99,25,2,On Time
+J-1074,Ortiz Townhomes,Exterior,Residential,1500,Crew C,Completed,2025-03-13,2025-03-19,2025-03-19,2025-03-25,2025-03-23,"$5,346","$1,062",22,$666,-$396,10,0,On Time
+J-1033,Fashion Island,Exterior,Commercial,3600,Crew B,Completed,2025-03-09,2025-03-19,2025-03-20,2025-03-26,2025-03-25,"$10,218","$1,736",54,"$1,166",-$570,16,1,On Time
+J-1057,Playa Vista,Interior,Commercial,2400,Crew C,Completed,2025-02-25,2025-03-21,2025-03-26,2025-03-27,2025-03-30,"$7,364","$1,249",38,$679,-$570,33,5,Late
+J-1022,Sunset Plaza Warehouse,Interior,Residential,3600,Crew A,Completed,2025-03-14,2025-03-26,2025-03-26,2025-04-03,2025-04-02,"$12,417","$2,462",53,"$1,665",-$797,19,0,On Time
+J-1021,Del Amo Fashion Center,Interior,Commercial,1200,Crew A,Completed,2025-03-30,2025-04-07,2025-04-07,2025-04-13,2025-04-10,"$4,448",$724,23,$603,-$121,11,0,On Time
+J-1045,Maple Ridge Studio,Exterior,Residential,3600,Crew C,Completed,2025-04-09,2025-04-22,2025-04-22,2025-04-29,2025-04-27,"$11,093","$1,818",58,"$1,305",-$513,18,0,On Time
+J-1031,Foster Warehouse,Interior,Residential,4500,Crew B,Completed,2025-04-14,2025-04-23,2025-04-28,2025-04-30,2025-05-03,"$15,821","$2,770",82,"$1,393","-$1,377",19,5,Late
+J-1064,The Century Residences,Interior,Commercial,800,Crew A,Completed,2025-04-12,2025-04-24,2025-04-26,2025-04-28,2025-04-30,"$3,229",$477,15,$423,-$54,18,2,Late
+J-1060,Juniper Townhomes,Interior,Residential,1800,Crew B,Completed,2025-04-25,2025-05-01,2025-05-01,2025-05-06,2025-05-05,"$5,894",$939,26,$981,$42,10,0,On Time
+J-1089,Warner Bros. Studios Burbank,Exterior,Commercial,1200,Crew C,Completed,2025-04-27,2025-05-06,2025-05-06,2025-05-12,2025-05-10,"$4,222",$640,21,$478,-$162,13,0,On Time
+J-1038,Ortiz HOA,Interior,Residential,2400,Crew B,Completed,2025-04-18,2025-05-12,2025-05-13,2025-05-19,2025-05-19,"$7,701","$1,126",44,"$1,185",$59,31,1,On Time
+J-1095,Ibarra Office,Both,Residential,1800,Crew A,Completed,2025-04-30,2025-05-14,2025-05-14,2025-05-20,2025-05-20,"$6,022","$1,156",31,"$1,411",$255,20,0,On Time
+J-1020,Metropolis Los Angeles,Both,Commercial,1800,Crew C,Completed,2025-04-24,2025-05-15,2025-05-16,2025-05-21,2025-05-19,"$5,586",$980,29,"$1,314",$334,25,1,On Time
+J-1063,Quinn Warehouse,Both,Residential,1800,Crew A,Completed,2025-04-24,2025-05-16,2025-05-17,2025-05-21,2025-05-19,"$5,783",$934,29,"$1,551",$617,25,1,On Time
+J-1015,Underwood Clinic,Both,Residential,1800,Crew C,Completed,2025-04-30,2025-05-16,2025-05-16,2025-05-21,2025-05-19,"$6,366","$1,047",26,"$1,481",$434,19,0,On Time
+J-1018,Gas Company Tower,Interior,Commercial,3000,Crew B,Completed,2025-04-25,2025-05-20,2025-05-20,2025-05-26,2025-05-24,"$10,369","$1,720",51,"$1,186",-$534,29,0,On Time
+J-1080,Coto de Caza,Both,Commercial,800,Crew C,Completed,2025-05-14,2025-05-20,2025-05-20,2025-05-24,2025-05-22,"$3,026",$539,15,$544,$5,8,0,On Time
+J-1088,Rancho Mission Viejo,Interior,Commercial,1200,Crew B,Completed,2025-04-28,2025-05-22,2025-05-25,2025-05-27,2025-05-28,"$4,464",$873,23,$351,-$522,30,3,Late
+J-1065,Vega Retail,Exterior,Residential,3600,Crew C,Completed,2025-05-14,2025-05-23,2025-05-23,2025-05-31,2025-05-29,"$12,299","$2,410",52,"$1,485",-$925,15,0,On Time
+J-1062,Vega Apartments,Exterior,Residential,2400,Crew C,Completed,2025-05-10,2025-05-26,2025-05-26,2025-06-02,2025-05-31,"$8,247","$1,348",42,"$1,003",-$345,21,0,On Time
+J-1008,Ladera Ranch,Interior,Commercial,1500,Crew B,Completed,2025-05-17,2025-05-29,2025-06-03,2025-06-04,2025-06-07,"$5,709",$912,24,$613,-$299,21,5,Late
+J-1012,Irvine Spectrum Center,Exterior,Commercial,800,Crew B,Completed,2025-05-29,2025-06-04,2025-06-05,2025-06-08,2025-06-09,"$2,770",$463,15,$458,-$5,11,1,Late
+J-1094,Juniper Studio,Exterior,Residential,1500,Crew A,Completed,2025-05-21,2025-06-04,2025-06-04,2025-06-08,2025-06-06,"$5,140",$895,22,$732,-$163,16,0,On Time
+J-1046,Westfield Century City,Interior,Commercial,1500,Crew A,Completed,2025-05-18,2025-06-07,2025-06-07,2025-06-12,2025-06-10,"$4,758",$798,28,$588,-$210,23,0,On Time
+J-1037,Xu Retail,Exterior,Residential,800,Crew B,Cancelled,2025-05-29,2025-06-08,,2025-06-12,,"$3,028",$544,15,$0,-$544,,,
+J-1005,Cedar HOA,Interior,Residential,1500,Crew C,Completed,2025-05-26,2025-06-18,2025-06-23,2025-06-22,2025-06-25,"$5,072",$879,22,$790,-$89,30,5,Late
+J-1059,Maple Ridge Clinic,Interior,Residential,1200,Crew A,Completed,2025-06-02,2025-06-20,2025-06-20,2025-06-25,2025-06-23,"$4,253",$677,17,$476,-$201,21,0,On Time
+J-1090,Circa LA,Exterior,Commercial,3000,Crew A,Completed,2025-06-06,2025-06-21,2025-06-22,2025-06-29,2025-06-30,"$10,030","$1,612",55,"$1,407",-$205,24,1,Late
+J-1087,Keller Apartments,Interior,Residential,2400,Crew C,Completed,2025-05-31,2025-06-25,2025-06-30,2025-07-02,2025-07-09,"$7,443","$1,211",36,"$1,111",-$100,39,5,Late
+J-1019,Porter Ranch,Interior,Commercial,1200,Crew B,Completed,2025-06-05,2025-06-30,2025-06-30,2025-07-06,2025-07-04,"$3,763",$548,20,$607,$59,29,0,On Time
+J-1003,Ritz-Carlton Residences LA Live,Exterior,Commercial,2400,Crew A,Completed,2025-06-13,2025-06-30,2025-06-30,2025-07-05,2025-07-02,"$8,500","$1,275",45,"$1,057",-$218,19,0,On Time
+J-1027,Whitman Clinic,Both,Residential,4500,Crew C,Completed,2025-06-16,2025-07-07,2025-07-07,2025-07-14,2025-07-12,"$15,272","$2,801",77,"$3,322",$521,26,0,On Time
+J-1096,Ortiz Clinic,Interior,Residential,1200,Crew C,Completed,2025-06-20,2025-07-09,2025-07-09,2025-07-13,2025-07-11,"$4,022",$657,19,$709,$52,21,0,On Time
+J-1025,Aon Center,Interior,Commercial,1500,Crew C,Completed,2025-06-23,2025-07-12,2025-07-12,2025-07-19,2025-07-18,"$4,549",$695,25,$678,-$17,25,0,On Time
+J-1034,Bayside Cafe,Interior,Residential,1500,Crew B,Completed,2025-07-05,2025-07-13,2025-07-13,2025-07-19,2025-07-17,"$4,934",$857,22,$658,-$199,12,0,On Time
+J-1067,Sony Pictures Studios,Interior,Commercial,800,Crew C,Completed,2025-07-06,2025-07-15,2025-07-16,2025-07-19,2025-07-18,"$3,388",$628,15,$247,-$381,12,1,On Time
+J-1073,Talega San Clemente,Exterior,Commercial,1500,Crew B,Completed,2025-07-08,2025-07-16,2025-07-16,2025-07-21,2025-07-21,"$5,633",$876,24,$529,-$347,13,0,On Time
+J-1016,The Vermont Apartments,Both,Commercial,1200,Crew A,Completed,2025-07-16,2025-07-24,2025-07-24,2025-07-29,2025-07-28,"$3,569",$677,18,$894,$217,12,0,On Time
+J-1036,Maple Ridge Cafe,Exterior,Residential,1800,Crew B,Completed,2025-07-02,2025-07-25,2025-07-25,2025-07-30,2025-07-28,"$6,125","$1,198",28,$701,-$497,26,0,On Time
+J-1091,The Original Farmers Market,Both,Commercial,3000,Crew B,Completed,2025-07-18,2025-07-26,2025-07-27,2025-08-02,2025-08-02,"$8,739","$1,537",57,"$2,267",$730,15,1,On Time
+J-1028,Anaheim Packing House,Both,Commercial,1200,Crew A,Completed,2025-07-08,2025-07-26,2025-07-26,2025-08-01,2025-07-30,"$4,086",$736,18,"$1,029",$293,22,0,On Time
+J-1042,City of Hope Medical Center,Exterior,Commercial,1200,Crew C,Completed,2025-07-28,2025-08-04,2025-08-04,2025-08-09,2025-08-07,"$4,535",$649,22,$504,-$145,10,0,On Time
+J-1006,Greenfield Warehouse,Interior,Residential,2400,Crew A,Completed,2025-07-17,2025-08-07,2025-08-10,2025-08-14,2025-08-16,"$7,161","$1,409",42,"$1,027",-$382,30,3,Late
+J-1070,Ortiz Townhomes,Interior,Residential,1800,Crew A,Completed,2025-07-27,2025-08-11,2025-08-11,2025-08-15,2025-08-13,"$5,656",$925,33,$811,-$114,17,0,On Time
+J-1099,Valencia Santa Clarita,Exterior,Commercial,800,Crew A,Completed,2025-08-07,2025-08-16,2025-08-16,2025-08-21,2025-08-19,"$3,147",$615,15,$519,-$96,12,0,On Time
+J-1032,Emerson HOA,Interior,Residential,800,Crew A,Completed,2025-07-28,2025-08-16,2025-08-21,2025-08-20,2025-08-23,"$3,113",$544,15,$383,-$161,26,5,Late
+J-1085,Marsh Warehouse,Both,Residential,1500,Crew B,Completed,2025-07-23,2025-08-17,2025-08-17,2025-08-23,2025-08-21,"$5,551",$779,28,"$1,165",$386,29,0,On Time
+J-1026,Juniper HOA,Both,Residential,1800,Crew A,Completed,2025-08-12,2025-08-20,2025-08-20,2025-08-24,2025-08-21,"$6,555",$933,27,"$1,191",$258,9,0,On Time
+J-1100,Woodbridge Irvine,Interior,Commercial,1500,Crew C,Completed,2025-08-02,2025-08-27,2025-08-30,2025-09-01,2025-09-02,"$4,597",$831,27,$697,-$134,31,3,Late
+J-1082,Whitman Office,Both,Residential,1800,Crew B,Completed,2025-08-27,2025-09-02,2025-09-02,2025-09-07,2025-09-05,"$5,368",$933,30,"$1,463",$530,9,0,On Time
+J-1061,Ortiz Clinic,Interior,Residential,1800,Crew B,Completed,2025-08-17,2025-09-05,2025-09-05,2025-09-10,2025-09-12,"$6,457",$914,30,$865,-$49,26,0,Late
+J-1048,Harbor View Apartments,Exterior,Residential,1800,Crew C,Completed,2025-08-30,2025-09-05,2025-09-06,2025-09-10,2025-09-09,"$5,776","$1,066",34,$918,-$148,10,1,On Time
+J-1002,Nguyen Studio,Both,Residential,1200,Crew C,Completed,2025-08-29,2025-09-06,2025-09-09,2025-09-10,2025-09-11,"$4,309",$824,23,$954,$130,13,3,Late
+J-1077,Goodman Logistics Center,Interior,Commercial,1500,Crew B,Completed,2025-08-19,2025-09-13,2025-09-13,2025-09-20,2025-09-19,"$4,997",$848,27,$771,-$77,31,0,On Time
+J-1009,Singh Retail,Interior,Residential,6000,Crew B,Completed,2025-09-04,2025-09-15,2025-09-16,2025-09-27,2025-09-27,"$16,564","$2,782",99,"$2,302",-$480,23,1,On Time
+J-1075,Underwood Clinic,Interior,Residential,800,Crew B,Completed,2025-09-05,2025-09-23,2025-09-26,2025-09-29,2025-09-30,"$3,450",$484,13,$280,-$204,25,3,Late
+J-1007,Marsh Clinic,Both,Residential,800,Crew A,Completed,2025-09-12,2025-09-27,2025-09-27,2025-10-01,2025-10-03,"$2,881",$539,13,$521,-$18,21,0,Late
+J-1071,Eighth & Grand,Both,Commercial,2400,Crew B,Completed,2025-09-26,2025-10-03,2025-10-03,2025-10-09,2025-10-07,"$7,456","$1,192",38,"$1,752",$560,11,0,On Time
+J-1047,Sunset Plaza Townhomes,Exterior,Residential,1500,Crew B,Completed,2025-09-10,2025-10-05,2025-10-05,2025-10-09,2025-10-07,"$5,397","$1,040",24,$513,-$527,27,0,On Time
+J-1076,World Logistics Center,Interior,Commercial,4500,Crew B,Completed,2025-09-11,2025-10-06,2025-10-09,2025-10-15,2025-10-16,"$14,085","$2,287",66,"$1,722",-$565,35,3,Late
+J-1054,Maple Ridge Clinic,Interior,Residential,1800,Crew A,Completed,2025-09-20,2025-10-08,2025-10-08,2025-10-15,2025-10-13,"$6,254","$1,088",26,$958,-$130,23,0,On Time
+J-1014,Ovation Hollywood,Interior,Commercial,1800,Crew B,Completed,2025-10-03,2025-10-10,2025-10-10,2025-10-15,2025-10-17,"$6,481","$1,012",33,$805,-$207,14,0,Late
+J-1066,ROW DTLA,Interior,Commercial,6000,Crew A,Completed,2025-09-29,2025-10-11,2025-10-11,2025-10-22,2025-10-20,"$20,697","$3,097",98,"$2,690",-$407,21,0,On Time
+J-1079,Sunset Plaza Clinic,Both,Residential,6000,Crew A,Completed,2025-10-06,2025-10-13,2025-10-13,2025-10-23,2025-10-21,"$20,826","$3,884",113,"$3,994",$110,15,0,On Time
+J-1004,Xu Apartments,Exterior,Residential,1800,Crew A,Completed,2025-09-26,2025-10-14,2025-10-15,2025-10-20,2025-10-23,"$6,075","$1,032",31,$883,-$149,27,1,Late
+J-1011,Vega Apartments,Interior,Residential,1200,Crew B,Completed,2025-09-24,2025-10-14,2025-10-14,2025-10-19,2025-10-17,"$3,629",$625,17,$565,-$60,23,0,On Time
+J-1081,The LAB Anti-Mall,Exterior,Commercial,3600,Crew C,Completed,2025-10-09,2025-10-15,2025-10-15,2025-10-22,2025-10-21,"$12,164","$2,408",54,"$1,350","-$1,058",12,0,On Time
+J-1043,Foster Office,Exterior,Residential,1800,Crew C,Completed,2025-09-26,2025-10-17,2025-10-17,2025-10-22,2025-10-20,"$6,515","$1,289",27,$790,-$499,24,0,On Time
+J-1053,Sunset Plaza Apartments,Both,Residential,3000,Crew C,Completed,2025-09-29,2025-10-18,2025-10-21,2025-10-26,2025-10-27,"$8,923","$1,707",57,"$2,218",$511,28,3,Late
+J-1072,Sunset Gower Studios,Interior,Commercial,1800,Crew B,Completed,2025-09-28,2025-10-21,2025-10-21,2025-10-27,2025-10-25,"$5,768",$872,27,$742,-$130,27,0,On Time
+J-1039,Zimmer Clinic,Interior,Residential,3600,Crew B,Completed,2025-10-10,2025-10-26,2025-10-26,2025-11-03,2025-10-31,"$11,137","$1,956",60,"$1,180",-$776,21,0,On Time
+J-1024,Greenfield Apartments,Exterior,Residential,1200,Crew B,Completed,2025-10-10,2025-10-30,2025-10-30,2025-11-05,2025-11-03,"$3,575",$689,23,$550,-$139,24,0,On Time
+J-1040,Tran Residence,Exterior,Residential,2400,Crew A,Cancelled,2025-10-29,2025-11-06,,2025-11-13,,"$7,912","$1,285",46,$0,"-$1,285",,,
+J-1083,Underwood Warehouse,Exterior,Residential,3600,Crew B,Completed,2025-10-27,2025-11-07,2025-11-07,2025-11-15,2025-11-14,"$11,194","$1,635",55,"$1,225",-$410,18,0,On Time
+J-1001,Nguyen Office,Interior,Residential,2400,Crew C,Completed,2025-10-20,2025-11-09,2025-11-09,2025-11-15,2025-11-13,"$8,244","$1,555",35,$986,-$569,24,0,On Time
+J-1029,Whitman Cafe,Interior,Residential,1500,Crew A,Scheduled,2025-11-01,2025-11-16,,2025-11-20,,"$5,415",$915,22,$0,-$915,,,
+J-1017,AVA Little Tokyo,Exterior,Commercial,3000,Crew A,Scheduled,2025-11-18,2025-11-28,,2025-12-03,,"$10,104","$1,757",43,$0,"-$1,757",,,
+J-1013,Foster Retail,Interior,Residential,1800,Crew C,Scheduled,2025-11-21,2025-12-08,,2025-12-13,,"$5,794","$1,153",27,$0,"-$1,153",,,
+J-1049,Vega Warehouse,Interior,Residential,1500,Crew A,Scheduled,2025-11-18,2025-12-09,,2025-12-13,,"$4,745",$837,26,$0,-$837,,,
+J-1092,Foster Retail,Exterior,Residential,800,Crew C,Scheduled,2025-12-03,2025-12-11,,2025-12-15,,"$3,226",$534,15,$0,-$534,,,
+J-1068,Greenfield Clinic,Both,Residential,3600,Crew C,Scheduled,2025-12-13,2025-12-21,,2025-12-28,,"$12,091","$1,961",61,$0,"-$1,961",,,
+J-1041,Tran Residence,Exterior,Residential,4500,Crew C,Scheduled,2025-12-02,2025-12-24,,2026-01-02,,"$14,302","$2,361",78,$0,"-$2,361",,,
+J-1055,Nguyen Office,Exterior,Residential,1200,Crew A,Scheduled,2025-12-10,2025-12-28,,2026-01-01,,"$4,835",$711,18,$0,-$711,,,
+J-1035,Delgado Residence,Both,Residential,3600,Crew C,Scheduled,2025-12-09,2025-12-31,,2026-01-08,,"$10,134","$1,902",65,$0,"-$1,902",,,

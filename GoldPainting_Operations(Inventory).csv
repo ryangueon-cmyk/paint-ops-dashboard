@@ -1,0 +1,31 @@
+﻿SKU,Item Name,Category,Unit,Unit Cost,On Hand,Reorder Pt,Reorder Qty,Lead Days,Supplier,Annual Usage,Status,Inv Value ($),Turnover (x),Days Supply
+PT-WHT-EG,"Interior Paint - White, Eggshell",Paint,gallon,$28.00,41,15,40,5,SherCoat Supply,189,OK,"$1,148",4.6x,79
+PT-WHT-ST,"Interior Paint - White, Satin",Paint,gallon,$30.00,10,15,40,5,SherCoat Supply,221,REORDER,$300,22.1x,17
+PT-GRY-EG,"Interior Paint - Gray, Eggshell",Paint,gallon,$29.00,43,15,40,5,SherCoat Supply,218,OK,"$1,247",5.1x,72
+PT-BEI-EG,"Interior Paint - Beige, Eggshell",Paint,gallon,$29.00,39,15,40,5,SherCoat Supply,117,OK,"$1,131",3.0x,122
+PT-BLU-ST,"Interior Paint - Blue, Satin",Paint,gallon,$31.00,22,15,40,5,SherCoat Supply,76,OK,$682,3.5x,106
+PT-GRN-ST,"Interior Paint - Green, Satin",Paint,gallon,$31.00,47,15,40,5,SherCoat Supply,156,OK,"$1,457",3.3x,110
+PT-BLK-SG,"Interior Paint - Black, Semi-Gloss",Paint,gallon,$33.00,41,15,40,5,SherCoat Supply,157,OK,"$1,353",3.8x,95
+PT-EXT-WHT,Exterior Paint - White,Paint,gallon,$36.00,41,15,40,5,SherCoat Supply,197,OK,"$1,476",4.8x,76
+PT-EXT-GRY,Exterior Paint - Gray,Paint,gallon,$37.00,12,15,40,5,SherCoat Supply,196,REORDER,$444,16.3x,22
+PT-EXT-TAN,Exterior Paint - Tan,Paint,gallon,$37.00,32,15,40,5,SherCoat Supply,361,OK,"$1,184",11.3x,32
+PT-TRM-WHT,"Trim Paint - White, Gloss",Paint,gallon,$34.00,30,15,40,5,SherCoat Supply,91,OK,"$1,020",3.0x,120
+PT-CEIL,Ceiling Paint - Flat White,Paint,gallon,$26.00,45,15,40,5,SherCoat Supply,104,OK,"$1,170",2.3x,158
+PR-INT,Interior Primer,Primer,gallon,$22.00,25,10,25,5,SherCoat Supply,177,OK,$550,7.1x,52
+PR-EXT,Exterior Primer,Primer,gallon,$25.00,4,10,25,5,SherCoat Supply,196,REORDER,$100,49.0x,7
+PR-STAIN,Stain-Blocking Primer,Primer,gallon,$27.00,21,10,25,5,SherCoat Supply,113,OK,$567,5.4x,68
+SU-ROLL9,Roller Cover 9in,Supplies,each,$4.00,69,40,120,3,ProPaint Distributors,103,OK,$276,1.5x,245
+SU-ROLLFR,Roller Frame,Supplies,each,$7.00,19,40,120,3,ProPaint Distributors,98,REORDER,$133,5.2x,71
+SU-BRUSH2,Brush 2in Angled,Supplies,each,$6.00,56,40,120,3,ProPaint Distributors,147,OK,$336,2.6x,139
+SU-BRUSH3,Brush 3in Flat,Supplies,each,$8.00,20,40,120,3,ProPaint Distributors,131,REORDER,$160,6.6x,56
+SU-TAPE,Painter's Tape Roll,Supplies,roll,$5.00,100,40,120,3,ProPaint Distributors,125,OK,$500,1.3x,292
+SU-DROP,Drop Cloth 9x12,Supplies,each,$12.00,109,40,120,3,ProPaint Distributors,91,OK,"$1,308",0.8x,437
+SU-CAULK,Painter's Caulk,Supplies,each,$4.00,78,40,120,3,ProPaint Distributors,54,OK,$312,0.7x,527
+SU-SAND,Sandpaper Pack,Supplies,each,$7.00,22,40,120,3,ProPaint Distributors,121,REORDER,$154,5.5x,66
+SU-TRAY,Paint Tray,Supplies,each,$3.00,119,40,120,3,ProPaint Distributors,85,OK,$357,0.7x,511
+SU-PLAST,Plastic Sheeting Roll,Supplies,roll,$15.00,111,40,120,3,ProPaint Distributors,96,OK,"$1,665",0.9x,422
+SU-PUTTY,Spackle / Putty,Supplies,each,$6.00,66,40,120,3,ProPaint Distributors,108,OK,$396,1.6x,223
+SU-RAG,Cleanup Rags Pack,Supplies,each,$9.00,87,40,120,3,ProPaint Distributors,136,OK,$783,1.6x,233
+EQ-SPRTIP,Sprayer Tip,Equipment,each,$18.00,4,3,5,10,ProPaint Distributors,0,OK,$72,0.0x,
+EQ-EXTPOLE,Extension Pole,Equipment,each,$24.00,4,3,5,10,ProPaint Distributors,0,OK,$96,0.0x,
+EQ-LADDER6,Step Ladder 6ft,Equipment,each,$85.00,7,3,5,10,ProPaint Distributors,0,OK,$595,0.0x,
