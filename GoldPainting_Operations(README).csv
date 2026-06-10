@@ -1,0 +1,36 @@
+﻿GOLD PAINTING — Inventory & Order-Fulfillment Analysis
+"Operations analytics  |  synthetic data, FY2025"
+
+
+WORKBOOK STRUCTURE
+"Dashboard      KPIs, crew & job-type breakdowns, chart (read this first)"
+"Inventory      tbl_Inventory — SKU master, stock levels, reorder logic"
+"Jobs           tbl_Jobs — every job as an order: dates, status, price, on-time"
+JobMaterials   tbl_JobMaterials — bill of materials linking jobs to inventory
+
+KEY METRIC DEFINITIONS
+On-Time Completion  Actual completion <= scheduled completion (completed jobs only)
+Cycle Time          Days from quote date to actual completion
+Start Delay         Actual start minus scheduled start (days)
+Actual Material Cost SUM of line costs from JobMaterials (qty x unit cost)
+Material Variance   Actual material cost minus quoted material cost (+ = over budget)
+Inventory Turnover  Annual usage value / inventory value on hand
+Reorder Flag        On-hand qty <= reorder point
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
